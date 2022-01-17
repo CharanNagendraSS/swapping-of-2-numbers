@@ -1,0 +1,12 @@
+//swapping two numbers using 3rd variable
+
+#include<iostream.h>
+int main()
+{
+  int a=5,b=10,temp;
+  
+  
+  cout<<"\n after swap"<<endl;
+  cout<<"a="<<a<<",b="<<b<<endl;
+  return 0;
+}
